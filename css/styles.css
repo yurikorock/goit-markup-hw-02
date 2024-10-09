@@ -37,7 +37,7 @@ body{
 .address-main{
     font-style: normal;
 }
-.address-links .link{
+.address-main .address-links .link{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
@@ -47,7 +47,7 @@ body{
         letter-spacing: 0.02em;
         color: #434455;
 }
-.address-links .link:hover,
-.address-links .link:focus{
+.address-main .address-links .link:hover,
+.address-main .address-links .link:focus{
     color: #404bbf;
 }
