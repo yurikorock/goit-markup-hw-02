@@ -51,3 +51,33 @@ body{
 .address-main .address-links .link:focus{
     color: #404bbf;
 }
+.section-main{
+    background-color: #2e2f42;
+}
+.section-main-title{
+    font-family: "Roboto", sans-serif;
+        font-weight: 700;
+        font-size: 56px;
+    
+        /* line-height: 60px; */
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+.section-main .btn-section-main{
+    background: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+    
+        /* line-height: 24px; */
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        cursor: pointer;
+}
+.section-main .btn-section-main:hover,
+.section-main .btn-section-main:focus{
+    background-color: #404BBF;
+}
