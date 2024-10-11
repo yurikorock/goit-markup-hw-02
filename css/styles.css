@@ -81,7 +81,7 @@ body{
 .section-main .btn-section-main:focus{
     background-color: #404BBF;
 }
-.section-two .section-title{
+.section-two .section-two-list .section-title{
     font-family: "Roboto", sans-serif;
         font-weight: 500;
         font-size: 20px;
@@ -91,7 +91,7 @@ body{
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
-.section-two .section-title .section-paragraph{
+.section-two .section-two-list .section-title .section-paragraph{
     font-family: "Roboto", sans-serif;
         font-weight: 400;
         font-size: 16px;
