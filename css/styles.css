@@ -2,11 +2,11 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #fff;
+  a {
+    text-decoration: none;
+  }
   ul {
     list-style-type: none;
-    a {
-      text-decoration: none;
-    }
   }
 }
 .logo {
@@ -19,11 +19,9 @@ body {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  text-decoration: none;
 }
 .logo .logo-name {
   color: #2e2f42;
-  text-decoration: none;
 }
 .nav-links .link {
   font-weight: 500;
