@@ -23,6 +23,7 @@ body {
 }
 .logo .logo-name {
   color: #2e2f42;
+  text-decoration: none;
 }
 .nav-links .link {
   font-weight: 500;
